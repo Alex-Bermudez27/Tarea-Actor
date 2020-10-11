@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Contador Binario.lvlib" Type="Library" URL="../Contador Binario/Contador Binario.lvlib"/>
 		<Item Name="Generador de Funciones.lvlib" Type="Library" URL="../Generador de Funciones/Generador de Funciones.lvlib"/>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">

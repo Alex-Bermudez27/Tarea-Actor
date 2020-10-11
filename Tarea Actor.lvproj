@@ -13,6 +13,7 @@
 		<Item Name="Contador Binario.lvlib" Type="Library" URL="../Contador Binario/Contador Binario.lvlib"/>
 		<Item Name="Generador de Funciones.lvlib" Type="Library" URL="../Generador de Funciones/Generador de Funciones.lvlib"/>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
+		<Item Name="Tdms.lvlib" Type="Library" URL="../Tdms/Tdms.lvlib"/>
 		<Item Name="Txt.lvlib" Type="Library" URL="../Txt/Txt.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

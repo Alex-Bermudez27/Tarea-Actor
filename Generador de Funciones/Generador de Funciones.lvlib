@@ -6,8 +6,11 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Amplitud Msg.lvclass" Type="LVClass" URL="../../Generador de Funciones Messages/Amplitud Msg/Amplitud Msg.lvclass"/>
 		<Item Name="Event Graph Msg.lvclass" Type="LVClass" URL="../../Generador de Funciones Messages/Event Graph Msg/Event Graph Msg.lvclass"/>
+		<Item Name="File path Msg.lvclass" Type="LVClass" URL="../../Generador de Funciones Messages/File path Msg/File path Msg.lvclass"/>
 		<Item Name="Frecuencia Msg.lvclass" Type="LVClass" URL="../../Generador de Funciones Messages/Frecuencia Msg/Frecuencia Msg.lvclass"/>
 		<Item Name="Graph Data Msg.lvclass" Type="LVClass" URL="../../Generador de Funciones Messages/Graph Data Msg/Graph Data Msg.lvclass"/>
+		<Item Name="Log Msg.lvclass" Type="LVClass" URL="../../Generador de Funciones Messages/Log Msg/Log Msg.lvclass"/>
+		<Item Name="Tipo de guardado Msg.lvclass" Type="LVClass" URL="../../Generador de Funciones Messages/Tipo de guardado Msg/Tipo de guardado Msg.lvclass"/>
 		<Item Name="Tipo de señal Msg.lvclass" Type="LVClass" URL="../../Generador de Funciones Messages/Tipo de señal Msg/Tipo de señal Msg.lvclass"/>
 	</Item>
 	<Item Name="Generador de Funciones.lvclass" Type="LVClass" URL="../Generador de Funciones.lvclass"/>

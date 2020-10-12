@@ -5,8 +5,11 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Cuenta Msg.lvclass" Type="LVClass" URL="../../Contador Binario Messages/Cuenta Msg/Cuenta Msg.lvclass"/>
+		<Item Name="File Path Msg.lvclass" Type="LVClass" URL="../../Contador Binario Messages/File Path Msg/File Path Msg.lvclass"/>
+		<Item Name="Log Msg.lvclass" Type="LVClass" URL="../../Contador Binario Messages/Log Msg/Log Msg.lvclass"/>
 		<Item Name="Max Msg.lvclass" Type="LVClass" URL="../../Contador Binario Messages/Max Msg/Max Msg.lvclass"/>
 		<Item Name="Min Msg.lvclass" Type="LVClass" URL="../../Contador Binario Messages/Min Msg/Min Msg.lvclass"/>
+		<Item Name="Tipo de guardado Msg.lvclass" Type="LVClass" URL="../../Contador Binario Messages/Tipo de guardado Msg/Tipo de guardado Msg.lvclass"/>
 	</Item>
 	<Item Name="Contador Binario.lvclass" Type="LVClass" URL="../Contador Binario.lvclass"/>
 </Library>
